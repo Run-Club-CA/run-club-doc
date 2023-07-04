@@ -62,14 +62,14 @@ Tom is a 28-year-old male who works on the marketing team of a local brewery. He
 
 Tom has found it to be frustrating to coordinate his schedule with the club's events due to work commitments and the current clubs lack of a proper schedule/calendar. He currently tries to loosely track his kilometres run based on the estimated length of the runs he joins, but would appreciate a more structured run tracker which could also track his progress against other run club users and give him some some extra motivation to show up and push his running further.
 
-As a runner, Tom would like to signup/login to the app so his experience can be personalised and secure.
-As a runner, Tom would like to find upcoming runs so that he can see which runs fit his schedule.
-As a runner, Tom would like to see the length and difficulty of runs so that he can join runs which match his running abilities.
-As a runner, Tom would like to sign up for runs so as to see the runs he will be attending.
-As a runner, Tom would like to have the runs he completes tracked so that he can track his performance, be rewarded for his consistency, and compete with his friends.
-As a runner, Tom would like to cancel runs he has signed up for but can no longer attend so that they won't show up in his run list and to help the coaches anticipate numbers better.
-As a runner, Tom would like to be notified if a run he has signed up for is being cancelled due to weather etc so that his time isn't wasted travelling to the run and he can schedule other activities at that time.
-As a runner, Tom would like to know how many runs/how many kms he has run in the last week/month so that he can track my metrics for motivation and track his progress towards fitness goals.
-As a runner, Tom would like to compare his stats with other runners to gamify his experience, compete with friends, and be rewarded for hitting milestones.
-As a runner, Tom would like to see the forecasted weather on his runs so he can wear appropriate gear.
-As a runner, Tom would like to access a playlist so he can have curated and encouraging music which also results in a shared listening experience with other members.
+- As a runner, Tom would like to signup/login to the app so his experience can be personalised and secure.
+- As a runner, Tom would like to find upcoming runs so that he can see which runs fit his schedule.
+- As a runner, Tom would like to see the length and difficulty of runs so that he can join runs which match his running abilities.
+- As a runner, Tom would like to sign up for runs so as to see the runs he will be attending.
+- As a runner, Tom would like to have the runs he completes tracked so that he can track his performance, be rewarded for his consistency, and compete with his friends.
+- As a runner, Tom would like to cancel runs he has signed up for but can no longer attend so that they won't show up in his run list and to help the coaches anticipate numbers better.
+- As a runner, Tom would like to be notified if a run he has signed up for is being cancelled due to weather etc so that his time isn't wasted travelling to the run and he can schedule other activities at that time.
+- As a runner, Tom would like to know how many runs/how many kms he has run in the last week/month so that he can track my metrics for motivation and track his progress towards fitness goals.
+- As a runner, Tom would like to compare his stats with other runners to gamify his experience, compete with friends, and be rewarded for hitting milestones.
+- As a runner, Tom would like to see the forecasted weather on his runs so he can wear appropriate gear.
+- As a runner, Tom would like to access a playlist so he can have curated and encouraging music which also results in a shared listening experience with other members.
