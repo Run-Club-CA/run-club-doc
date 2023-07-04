@@ -45,3 +45,13 @@ Admins can also see a list of all users in the app and search for a user using t
 - **Event page/calender**: A page will be created that can be navigated too by the user, this event page will have a calender that details what events are coming up and their difficulty. From here Users will be able to sign up to attend.
 - **Event Attendance**: Any user is allowed to sign up to attend an event. They are also able to remove themselves from attendance.
 - **Completed Run**: Trainers are able to check off the participants of an event after it has happened. This allows the kms to be tracked for users, which adds to the total kms run by that user.
+
+***
+
+### Target Audience
+
+The core users of the app would be individual runners of all fitness levels from fairly new runners to the highly experienced. These users want to be easily connected with like-minded individuals for social engagement, motivation, and to run with trainers to become more skilled about running. The app users would mostly fall between 15-55, cover all genders, income levels, education levels, and marital/parenthood statuses. Geographically, users would live within the Sydney metropolitan area most likely within 20 kilometres of the store location, Waverley. Psychographically, they are likely to be strongly interested in health/fitness, highly social, open to new experiences, and somewhat competitive.
+
+Secondary users would be the run leaders/trainers, who are highly experienced runners who may be volunteers or employees of the running shoe store. They are social, enjoy sharing their passion for running through group runs, and find satisfaction through improving other runners of all levels with their coaching abilities and knowledge of running techniques/gear.
+
+***
