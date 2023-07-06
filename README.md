@@ -9,7 +9,7 @@
 ### Table of Contents
 
 - [Purpose](https://github.com/Run-Club-CA/run-club-doc#purpose)
-- Functionality/Features
+- [Functionality/Features](https://github.com/Run-Club-CA/run-club-doc#functionalityfeatures)
 - Target Audience
 - Tech Stack
 - Dataflow Diagrams
@@ -45,3 +45,7 @@ Admins can also see a list of all users in the app and search for a user using t
 - **Event page/calender**: A page will be created that can be navigated too by the user, this event page will have a calender that details what events are coming up and their difficulty. From here Users will be able to sign up to attend.
 - **Event Attendance**: Any user is allowed to sign up to attend an event. They are also able to remove themselves from attendance.
 - **Completed Run**: Trainers are able to check off the participants of an event after it has happened. This allows the kms to be tracked for users, which adds to the total kms run by that user.
+
+***
+
+### User Stories
