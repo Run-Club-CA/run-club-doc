@@ -56,6 +56,24 @@ Secondary users would be the run leaders/trainers, who are highly experienced ru
 
 ***
 
+### Tech Stack
+
+**Front-end:** HTML5, CSS3, JavaScript, React, TailwindCSS
+
+**Back-end:** Node.js, Express
+
+**Database:** MongoDB
+
+**Testing:** Jest
+
+**Design:** Figma
+
+**Deployment:** Heroku, Netlify
+
+**Project management/Communication:** Trello, Notion
+
+*** 
+
 ### User Story: Runner
 
 Tom is a 28-year-old male who works on the marketing team of a local brewery. He is a beginner-to-intermediate level runner trying to lead a healthier lifestyle. Joining a local running group was an easy choice for Tom who thought it would help him to stay accountable with his running schedule while meeting friendly locals who shared in his running interest.
@@ -73,3 +91,4 @@ Tom has found it to be frustrating to coordinate his schedule with the club's ev
 - As a runner, Tom would like to compare his stats with other runners to gamify his experience, compete with friends, and be rewarded for hitting milestones.
 - As a runner, Tom would like to see the forecasted weather on his runs so he can wear appropriate gear.
 - As a runner, Tom would like to access a playlist so he can have curated and encouraging music which also results in a shared listening experience with other members.
+
