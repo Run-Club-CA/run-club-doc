@@ -74,11 +74,13 @@ Secondary users would be the run leaders/trainers, who are highly experienced ru
 
 *** 
 
-### User Story: Runner
+### User Persona: Runner
 
 Tom is a 28-year-old male who works on the marketing team of a local brewery. He is a beginner-to-intermediate level runner trying to lead a healthier lifestyle. Joining a local running group was an easy choice for Tom who thought it would help him to stay accountable with his running schedule while meeting friendly locals who shared in his running interest.
 
 Tom has found it to be frustrating to coordinate his schedule with the club's events due to work commitments and the current clubs lack of a proper schedule/calendar. He currently tries to loosely track his kilometres run based on the estimated length of the runs he joins, but would appreciate a more structured run tracker which could also track his progress against other run club users and give him some some extra motivation to show up and push his running further.
+
+#### **User Story: Runner**
 
 - As a runner, Tom would like to signup/login to the app so his experience can be personalised and secure.
 - As a runner, Tom would like to find upcoming runs so that he can see which runs fit his schedule.
@@ -86,9 +88,17 @@ Tom has found it to be frustrating to coordinate his schedule with the club's ev
 - As a runner, Tom would like to sign up for runs so as to see the runs he will be attending.
 - As a runner, Tom would like to have the runs he completes tracked so that he can track his performance, be rewarded for his consistency, and compete with his friends.
 - As a runner, Tom would like to cancel runs he has signed up for but can no longer attend so that they won't show up in his run list and to help the coaches anticipate numbers better.
-- As a runner, Tom would like to be notified if a run he has signed up for is being cancelled due to weather etc so that his time isn't wasted travelling to the run and he can schedule other activities at that time.
+- As a runner, Tom would like to be notified if a run he has signed up for is being cancelled due to weather etc so that his time isn't wasted traveling to the run and he can schedule other activities at that time.
 - As a runner, Tom would like to know how many runs/how many kms he has run in the last week/month so that he can track my metrics for motivation and track his progress towards fitness goals.
 - As a runner, Tom would like to compare his stats with other runners to gamify his experience, compete with friends, and be rewarded for hitting milestones.
 - As a runner, Tom would like to see the forecasted weather on his runs so he can wear appropriate gear.
 - As a runner, Tom would like to access a playlist so he can have curated and encouraging music which also results in a shared listening experience with other members.
+
+### User Persona: Trainer
+
+Alicia is a 32 year old trainer that volunteers for the run club. When she isn't hosting running events she is working as an air traffic controller, or living a busy social life. Alicia is an outgoing person that loves to be challenged and help others achieve and beat their goals.  
+
+Alicia finds that the running group she volunteers at is a great way to be engaged within the community, but has found issues with the way its organised. Due to her busy schedule, trying to organise events around other trainers can be difficult without a proper calender. She would love to see the running group be able to have a much more centralized and easy to use app to co-ordinate runs.  
+
+#### **User Story: Trainer**
 
