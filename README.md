@@ -102,3 +102,24 @@ Alicia finds that the running group she volunteers at is a great way to be engag
 
 #### **User Story: Trainer**
 
+- As Alicia, I want to be able to host running events so that I can help runners achieve their goals and create a sense of community.
+- As Alicia, I want to be able to keep track of mine and other trainers upcoming events so that I can keep my schedule organised.
+- As Alicia, I want to be able to create my events for the upcoming month before it starts so that I can keep my runners informed.
+- As Alicia, I want to keep track of my kms to ensure I am achieving my goals.
+- As Alicia, I want to be able to see the kms of my runners to be able to give them words of encouragement for making achievements.
+- As Alicia, I want to be able to check off the completed runs of my attending runners, so that they can keep track of their KMs.
+- As Alicia, I want to be able to notify runners attending my events of any upcoming changes or cancellations to avoid making any impacts on attendees lives/schedule.
+
+### User Persona: Admin
+
+Jim Lahey is the owner of the running shoe company that hosts the local running group. Jim is an ambitious, problem solver and community driven. He has been extremely proud of how his run group has grown over the years but is also aware of the issues stemming from the growth.  
+Jim is looking to make a more user friendly and inclusive app, that would help bring in more runners and make the organisation of events by his trainers far easier to handle. Jim also believes having a running app will help drive engagement in the sport and ultimately lead to more reoccurring customers.  
+
+#### **User Story: Admin**
+
+- As Jim, I want to have a more central location for events being posted so that it is easier for the group to see whats coming up and plan ahead.
+- As Jim, I want to give my trainers more autonomy on how they plan, update or cancel their events. So as to give them more freedom to tailor their events to their schedules.
+- As Jim, I want to be able to remove members from the group if they are not following our guidelines, so as to ensure we have a safe space for the group.
+- As Jim, I want to ensure that the app is user friendly and inclusive to ensure its accommodating for all members of the group.
+- As Jim, I want an attractive app that drives up engagement. So that this encourages more customers to come to the store for new equipment.
+- As Jim, I want to have a way to track the kilometers ran by members. So that I can celebrate achievements and give prizes to people that hit milestones and can enter the prize draw.
