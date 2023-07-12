@@ -128,6 +128,16 @@ Jim is looking to make a more user friendly and inclusive app, that would help b
 
 ### Application Architecture
 
-![Architecture Diagram](media/arch_diagram.png)
+![Architecture Diagram](/docs/media/arch_diagram.png)
 
 ---
+
+### Dataflow Diagrams
+
+#### Dataflow User
+
+![dataflow diagram user](/docs/media/dataflow-user.png)
+
+#### Dataflow Events
+
+![dataflow diagram events](/docs/media/dataflow-events.png)
