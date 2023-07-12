@@ -90,6 +90,9 @@ Tom has found it to be frustrating to coordinate his schedule with the club's ev
 - As a runner, Tom would like to cancel runs he has signed up for but can no longer attend so that they won't show up in his run list and to help the coaches anticipate numbers better.
 - As a runner, Tom would like to be notified if a run he has signed up for is being cancelled due to weather etc so that his time isn't wasted traveling to the run and he can schedule other activities at that time.
 - As a runner, Tom would like to know how many runs/how many kms he has run in the last week/month so that he can track my metrics for motivation and track his progress towards fitness goals.
+
+**Nice To Have Features**
+
 - As a runner, Tom would like to compare his stats with other runners to gamify his experience, compete with friends, and be rewarded for hitting milestones.
 - As a runner, Tom would like to see the forecasted weather on his runs so he can wear appropriate gear.
 - As a runner, Tom would like to access a playlist so he can have curated and encouraging music which also results in a shared listening experience with other members.
@@ -122,6 +125,9 @@ Jim is looking to make a more user friendly and inclusive app, that would help b
 - As Jim, I want to be able to remove members from the group if they are not following our guidelines, so as to ensure we have a safe space for the group.
 - As Jim, I want to ensure that the app is user friendly and inclusive to ensure its accommodating for all members of the group.
 - As Jim, I want an attractive app that drives up engagement. So that this encourages more customers to come to the store for new equipment.
+
+**Nice To Have Features**
+
 - As Jim, I want to have a way to track the kilometers ran by members. So that I can celebrate achievements and give prizes to people that hit milestones and can enter the prize draw.
 
 ---
