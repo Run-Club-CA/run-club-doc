@@ -141,6 +141,16 @@ After a discussion between the developers and the client regarding time and comp
 
 ### Application Architecture
 
-![Architecture Diagram](media/arch_diagram.png)
+![Architecture Diagram](/docs/media/arch_diagram.png)
 
 ---
+
+### Dataflow Diagrams
+
+#### Dataflow User
+
+![dataflow diagram user](/docs/media/dataflow-user.png)
+
+#### Dataflow Events
+
+![dataflow diagram events](/docs/media/dataflow-events.png)
