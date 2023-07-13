@@ -91,12 +91,6 @@ Tom has found it to be frustrating to coordinate his schedule with the club's ev
 - As a runner, Tom would like to be notified if a run he has signed up for is being cancelled due to weather etc so that his time isn't wasted traveling to the run and he can schedule other activities at that time.
 - As a runner, Tom would like to know how many runs/how many kms he has run in the last week/month so that he can track my metrics for motivation and track his progress towards fitness goals.
 
-**Nice To Have Features**
-
-- As a runner, Tom would like to compare his stats with other runners to gamify his experience, compete with friends, and be rewarded for hitting milestones.
-- As a runner, Tom would like to see the forecasted weather on his runs so he can wear appropriate gear.
-- As a runner, Tom would like to access a playlist so he can have curated and encouraging music which also results in a shared listening experience with other members.
-
 ### User Persona: Trainer
 
 Alicia is a 32 year old trainer that volunteers for the run club. When she isn't hosting running events she is working as an air traffic controller, or living a busy social life. Alicia is an outgoing person that loves to be challenged and help others achieve and beat their goals.
@@ -109,9 +103,7 @@ Alicia finds that the running group she volunteers at is a great way to be engag
 - As Alicia, I want to be able to keep track of mine and other trainers upcoming events so that I can keep my schedule organised.
 - As Alicia, I want to be able to create my events for the upcoming month before it starts so that I can keep my runners informed.
 - As Alicia, I want to keep track of my kms to ensure I am achieving my goals.
-- As Alicia, I want to be able to see the kms of my runners to be able to give them words of encouragement for making achievements.
 - As Alicia, I want to be able to check off the completed runs of my attending runners, so that they can keep track of their KMs.
-- As Alicia, I want to be able to notify runners attending my events of any upcoming changes or cancellations to avoid making any impacts on attendees lives/schedule.
 
 ### User Persona: Admin
 
@@ -126,9 +118,24 @@ Jim is looking to make a more user friendly and inclusive app, that would help b
 - As Jim, I want to ensure that the app is user friendly and inclusive to ensure its accommodating for all members of the group.
 - As Jim, I want an attractive app that drives up engagement. So that this encourages more customers to come to the store for new equipment.
 
-**Nice To Have Features**
+### Nice To Have Features
+
+After a discussion between the developers and the client regarding time and complexity of some features, it was decided that the below features would be considered "nice to have". These features would be considered desirable if timing and resources permitted, but peripheral to the main functioning of the app.
+
+**Admin**
 
 - As Jim, I want to have a way to track the kilometers ran by members. So that I can celebrate achievements and give prizes to people that hit milestones and can enter the prize draw.
+
+**Trainer**
+
+- As Alicia, I want to be able to see the kms of all runners to be able to give them words of encouragement for making achievements.
+- As Alicia, I want to be able to notify runners attending my events of any upcoming changes or cancellations to avoid making any impacts on attendees lives/schedule.
+
+**User**
+
+- As a runner, Tom would like to compare his stats with other runners to gamify his experience, compete with friends, and be rewarded for hitting milestones.
+- As a runner, Tom would like to see the forecasted weather on his runs so he can wear appropriate gear.
+- As a runner, Tom would like to access a playlist so he can have curated and encouraging music which also results in a shared listening experience with other members.
 
 ---
 
