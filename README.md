@@ -10,11 +10,11 @@
 
 - [Purpose](https://github.com/Run-Club-CA/run-club-doc#purpose)
 - [Functionality/Features](https://github.com/Run-Club-CA/run-club-doc#functionalityfeatures)
-- Target Audience
-- Tech Stack
-- Dataflow Diagrams
-- Application Architecture Diagram
-- User Stories
+- [Target Audience](https://github.com/Run-Club-CA/run-club-doc#target-audience)
+- [Tech Stack](https://github.com/Run-Club-CA/run-club-doc#tech-stack)
+- [User Stories](https://github.com/Run-Club-CA/run-club-doc#user-persona-runner)
+- [Application Architecture Diagram](https://github.com/Run-Club-CA/run-club-doc#application-architecture)
+- [Dataflow Diagrams](https://github.com/Run-Club-CA/run-club-doc#dataflow-diagrams)
 - Wireframes
 - Project management screenshots
 
