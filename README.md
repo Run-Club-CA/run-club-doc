@@ -6,6 +6,8 @@
 
 #### Presentation part A - [Laurence Part](https://vimeo.com/845646364?share=copy) [Liam Part](https://vimeo.com/845640464?share=copy)
 
+#### [Repo for documentation](https://github.com/Run-Club-CA/run-club-doc) 
+
 ---
 
 ### Table of Contents
