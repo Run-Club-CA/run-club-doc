@@ -161,7 +161,7 @@ After a discussion between the developers and the client regarding time and comp
 
 ### Project Methodology and Management Screenshots
 
-For our project we have chosen to do a kanban style project management methodology with the use of trello boards to track our progress. We set up and followed a design board to begin with and have created 2 separate development boards.  
+For our project we have chosen to do a kanban style project management methodology with the use of trello boards to track our progress. We set up and followed a design board to begin with and have created 2 separate development boards.
 
 Having set up a development/production board that focuses on user stories is to help us tackle the project bit by bit and focus on what is a key feature that is needed for the apps functionality.  
 We have set up a development board to track the overall development of the application, which tracks the development and deployment of both front and back ends including the database production server. This board also has testing cards to ensure that we are able to focus on ensuring we have adequate testing for the project.
@@ -170,7 +170,7 @@ You can view our trello screenshots [here](./docs/Trello-screenshots/).
 
 You can view our design trello board [here](https://trello.com/b/h5BMjA8x/run-club-fullstack).  
 Our user stories development board [here](https://trello.com/b/QaIznuzZ/user-stories).  
-Our overall development/production board [here](https://trello.com/b/p9MMTR3I/development).  
+Our overall development/production board [here](https://trello.com/b/p9MMTR3I/development).
 
 These will continue to be updated and worked on during the full development of the application.
 
