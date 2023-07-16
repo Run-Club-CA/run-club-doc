@@ -15,9 +15,8 @@
 - [User Stories](https://github.com/Run-Club-CA/run-club-doc#user-persona-runner)
 - [Application Architecture Diagram](https://github.com/Run-Club-CA/run-club-doc#application-architecture)
 - [Dataflow Diagrams](https://github.com/Run-Club-CA/run-club-doc#dataflow-diagrams)
-- Project methodology + management screenshots
-- Wireframes
-
+- [Project methodology + management screenshots](https://github.com/Run-Club-CA/run-club-doc#project-methodology-and-management-screenshots)
+- [Wireframes](https://github.com/Run-Club-CA/run-club-doc#wireframes)
 
 ---
 
