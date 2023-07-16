@@ -15,8 +15,9 @@
 - [User Stories](https://github.com/Run-Club-CA/run-club-doc#user-persona-runner)
 - [Application Architecture Diagram](https://github.com/Run-Club-CA/run-club-doc#application-architecture)
 - [Dataflow Diagrams](https://github.com/Run-Club-CA/run-club-doc#dataflow-diagrams)
+- Project methodology + management screenshots
 - Wireframes
-- Project management screenshots
+
 
 ---
 
@@ -154,3 +155,56 @@ After a discussion between the developers and the client regarding time and comp
 #### Dataflow Events
 
 ![dataflow diagram events](/docs/media/dataflow-events.png)
+
+---
+
+### Project Methodology and Management Screenshots
+
+For our project we have chosen to do a kanban style project management methodology with the use of trello boards to track our progress. We set up and followed a design board to begin with and have created 2 separate development boards.  
+
+Having set up a development/production board that focuses on user stories is to help us tackle the project bit by bit and focus on what is a key feature that is needed for the apps functionality.  
+We have set up a development board to track the overall development of the application, which tracks the development and deployment of both front and back ends including the database production server. This board also has testing cards to ensure that we are able to focus on ensuring we have adequate testing for the project.
+
+You can view our trello screenshots [here](./docs/Trello-screenshots/).
+
+You can view our design trello board [here](https://trello.com/b/h5BMjA8x/run-club-fullstack).  
+Our user stories development board [here](https://trello.com/b/QaIznuzZ/user-stories).  
+Our overall development/production board [here](https://trello.com/b/p9MMTR3I/development).  
+
+These will continue to be updated and worked on during the full development of the application.
+
+---
+
+### WireFrames
+
+#### **For all the wireframes please follow this link** [WireFrames](https://www.figma.com/file/Q99DRegodZIKvAC3OG3anV/WireFrames?type=design&mode=design&t=zR3TrUffzlSp2WPu-1)
+
+For our design we have chosen to keep it relatively minimalistic and sleek. We have decided to go with a monotone colour scheme and nice basic monotype fonts. The idea of our design is to have it closely resemble a dashboard where the user either regular or trainer can navigate with ease to edit their profile or view/edit events and change attendances.  
+The Admin will have a slightly different dashboard in where it is more business focussed which allows the admin to easily navigate to do the tasks an admin can, such as editing user status, editing and removing events or removing a user from the application. Below are some images of the wireframes for both mobile and desktop.
+
+#### Mobile wireframe examples
+
+![Mobile landing page](./docs/wireframes/mobile-landing.png)
+![Mobile regular User](./docs/wireframes/mobile-ruser-dash.png)
+![Mobile profile edit](./docs/wireframes/user-edit-pro-mob.png)
+![Mobile profile delete](./docs/wireframes/user-delete-mobile.png)
+![Mobile trainer dash](./docs/wireframes/mobile-trainer-dash.png)
+![Mobile trainer new event](./docs/wireframes/trainer-new-event.png)
+![Mobile admin dash](./docs/wireframes/admin-dash-mob.png)
+![Mobile admin user mob](./docs/wireframes/admin-user-mob.png)
+
+#### Mobile desktop examples
+
+![Login desktop](./docs/wireframes/login-desk.png)
+![Sign up desktop](./docs/wireframes/sign-up-desk.png)
+![User dashboard desktop](./docs/wireframes/user-dash-desk.png)
+![User view event](./docs/wireframes/user-view-event-desk.png)
+![User update details](./docs/wireframes/user-update-details.png)
+![Trainer dashboard](./docs/wireframes/trainer-dash-desk.png)
+![Trainer own event](./docs/wireframes/trainer-own-event.png)
+![Trainer new event](./docs/wireframes/trainer-new-event-desk.png)
+![Admin dashboard](./docs/wireframes/admin-dash-desk.png)
+![Admin user list](./docs/wireframes/admin-list-users.png)
+![Admin view/update user](./docs/wireframes/admin-view-update-user.png)
+![Admin event list](./docs/wireframes/admin-event-list.png)
+![Admin edit event](./docs/wireframes/admin-event-edit-desk.png)
