@@ -33,7 +33,7 @@ The running club is looking to create an app that promotes a healthier lifestyle
 
 ### Functionality/Features
 
-- **User Creation**: Main feature allows users of the application to create their profile. This includes adding their name, age, email, and password to an account. Users can also update their details on the profile and delete their account if required.
+- **User Creation**: Main feature allows users of the application to create their profile. This includes adding their name, username, email, and password to an account. Users can also update their details on the profile and delete their account if required.
   The features of updating and removing an account require the user to be logged in, which will
   have the use of JWT authentication.
 - **User Login/Logout**: The user is required to login to the application to view upcoming events/sign up for events etc. Sign up will require the users email and password. Upon authentication the user will be assigned a JSON Web Token that will help reduce the amount of times a user will need to sign in. Users can log out as well when logged in.
