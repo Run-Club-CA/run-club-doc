@@ -124,6 +124,8 @@ To view as a user:
 
 ### Testing
 
+For our app we have used manual testing on local and production versions of the app, testing our local and deployed backend routes with insomnia, and written automated tests for the front and back end.
+
 - **Development**: 
 
 - **Production**: 
