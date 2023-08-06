@@ -126,9 +126,45 @@ To view as a user:
 
 For our app we have used manual testing on local and production versions of the app, testing our local and deployed backend routes with insomnia, and written automated tests for the front and back end.
 
-- **Development**: 
+- **Local**: 
+
+#### Event Routes
+
+- Trainer creates an event
+
+![Trainer Creates Event](docs/InsomniaLocalEventRoutes/TrainerCreatesEvent.png)
+
+- User gets upcoming events only
+
+![User gets upcoming events only](docs/InsomniaLocalEventRoutes/UserGetFutureEventsOnly.png)
+
+- User completes Event
+
+![User completes Event](docs/InsomniaLocalEventRoutes/UserCompletesEvent.png)
+
+Note that the events ID is moved from user bookings to user's completed in database.
+
+![User completes Event DB](docs/InsomniaLocalEventRoutes/UserCompletesEventDBview.png)
+
+See [Docs](docs/InsomniaLocalEventRoutes) for all screenshots of all local event routes.
 
 - **Production**: 
+
+#### Event Routes
+
+- Get Event, Wrong ID
+
+![Get Event, Wrong ID](docs/InsomniaProductionEventRoutes/GetEventByID-WrongID.png)
+
+- Trainer Deletes Event
+
+![Trainer Deletes Event](docs/InsomniaProductionEventRoutes/TrainerDeletesEvent.png)
+
+- Trainer Edits Event
+
+![Trainer Edits Event](docs/InsomniaProductionEventRoutes/TrainerEditsEvent.png)
+
+See [Docs](docs/InsomniaProductionEventRoutes) for all screenshots of all Production event routes.
 
 - **User Stories**: 
 
