@@ -4,7 +4,13 @@
 
 ### Authors: Laurence Walton and Liam Massey
 
-#### Presentation part B - [Laurence Part]() [Liam Part]()
+#### Presentation part A - [Laurence Part]() [Liam Part]()
+
+#### [Deployed App](https://therunclub.netlify.app/)
+
+#### [Front-end Repo](https://github.com/Run-Club-CA/front-end-repo)
+
+#### [Back-end Repo](https://github.com/Run-Club-CA/back-end-repo)
 
 #### [Repo for documentation](https://github.com/Run-Club-CA/run-club-doc) 
 
@@ -35,12 +41,6 @@ The running club is looking to create an app that promotes a healthier lifestyle
 
 ---
 
-- Deployed App: https://therunclub.netlify.app/
-
-- Front-end Repo: https://github.com/Run-Club-CA/front-end-repo
-
-- Back-end Repo: https://github.com/Run-Club-CA/back-end-repo
-
 ## Installation and Usage Instructions
 
 To use the deployed production app enter https://therunclub.netlify.app/ into your browser.
@@ -70,8 +70,6 @@ To view as a user:
 - Use the account below or sign up as a new user.
   email: User1email@email.com
   password: User1Pass
-
-
 
 ---
 
@@ -123,9 +121,13 @@ To view as a user:
 
 For our app we have used manual testing on local and production versions of the app, testing our local and deployed backend routes with insomnia, and written automated tests for the front and back end.
 
+Automated testing is incomplete just due to time constraints but through testing through local routes and front end testing was conducted.
+
 To see our full User testing tracking for Development and Production please visit our [Notion Spreadsheet](https://jazzy-beauty-73b.notion.site/Testing-cda85541080e4c2ca49038cbcd3725d7)
 
-- **Local**: 
+- **Local testing**
+
+#### User Routes
 
 #### Event Routes
 
