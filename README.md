@@ -19,14 +19,7 @@
 ### Table of Contents
 
 - [Purpose](https://github.com/Run-Club-CA/run-club-doc#purpose)
-- [Functionality/Features](https://github.com/Run-Club-CA/run-club-doc#functionalityfeatures)
-- [Target Audience](https://github.com/Run-Club-CA/run-club-doc#target-audience)
-- [Tech Stack](https://github.com/Run-Club-CA/run-club-doc#tech-stack)
-- [User Stories](https://github.com/Run-Club-CA/run-club-doc#user-persona-runner)
-- [Application Architecture Diagram](https://github.com/Run-Club-CA/run-club-doc#application-architecture)
-- [Dataflow Diagrams](https://github.com/Run-Club-CA/run-club-doc#dataflow-diagrams)
-- [Project methodology + management screenshots](https://github.com/Run-Club-CA/run-club-doc#project-methodology-and-management-screenshots)
-- [Wireframes](https://github.com/Run-Club-CA/run-club-doc#wireframes)
+
 
 ---
 
@@ -45,13 +38,26 @@ The running club is looking to create an app that promotes a healthier lifestyle
 
 To use the deployed production app enter https://therunclub.netlify.app/ into your browser.
 
-To use the app locally, please follow the below instructions.
+To use the app locally, please follow the below instructions:
 
-Requirements:
+Install Node.js and MongoDB
+
+Clone the [Front-end](https://github.com/Run-Club-CA/front-end-repo) and [Back-end](https://github.com/Run-Club-CA/back-end-repo) into separate folders.
 
 Back-end:
+Move to back-end-repo ($ cd back-end-repo)
+Install required packages ($ npm install).
+Start the mongoDB process. [See here for information](https://www.mongodb.com/docs/manual/installation/) 
+Seed the database $ NODE_ENV=development node src/seeds.js
+Start the local express server $ npm run start-dev.
+The server will run on local host port 5000.
 
 Front-end:
+
+Move to front-end-repo ($ cd front-end-repo)
+Install required packages ($ npm install).
+Start the local front-end server ($ npm start)
+The server will run on local host port 3000 and should open the site in your browser.
 
 To view as admin:
 
