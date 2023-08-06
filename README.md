@@ -45,18 +45,18 @@ Install Node.js and MongoDB
 Clone the [Front-end](https://github.com/Run-Club-CA/front-end-repo) and [Back-end](https://github.com/Run-Club-CA/back-end-repo) into separate folders.
 
 Back-end:
-Move to back-end-repo ($ cd back-end-repo)
-Install required packages ($ npm install).
-Start the mongoDB process. [See here for information](https://www.mongodb.com/docs/manual/installation/) 
-Seed the database $ NODE_ENV=development node src/seeds.js
-Start the local express server $ npm run start-dev.
+1. Move to back-end-repo ($ cd back-end-repo)
+2. Install required packages ($ npm install).
+3. Start the mongoDB process. [See here for information](https://www.mongodb.com/docs/manual/installation/) 
+4. Seed the database $ NODE_ENV=development node src/seeds.js
+5. Start the local express server $ npm run start-dev.
 The server will run on local host port 5000.
 
 Front-end:
 
-Move to front-end-repo ($ cd front-end-repo)
-Install required packages ($ npm install).
-Start the local front-end server ($ npm start)
+1. Move to front-end-repo ($ cd front-end-repo)
+2. Install required packages ($ npm install).
+3. Start the local front-end server ($ npm start)
 The server will run on local host port 3000 and should open the site in your browser.
 
 To view as admin:
