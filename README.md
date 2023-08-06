@@ -41,9 +41,6 @@ The running club is looking to create an app that promotes a healthier lifestyle
 
 - Back-end Repo: https://github.com/Run-Club-CA/back-end-repo
 
-📖 Part A Documentation Repo: 
-
-
 ## Installation and Usage Instructions
 
 To use the deployed production app enter https://therunclub.netlify.app/ into your browser.
