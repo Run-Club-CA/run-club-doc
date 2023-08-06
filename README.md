@@ -135,6 +135,40 @@ To see our full User testing tracking for Development and Production please visi
 
 #### User Routes
 
+for a full look at user routes access the folder [Docs](docs/InsomniaLocalUserRoutes)
+
+- User Sign up success
+
+![User signs up](docs/InsomniaLocalUserRoutes/user-signup-jwt-returned.png)
+
+- User login success
+
+![Login Success](docs/InsomniaLocalUserRoutes/back-end-login-prod-success.png)
+
+- User update success
+
+![User Update](docs/InsomniaLocalUserRoutes/back-end-update-user-returntoken.png)
+
+- User delete success
+
+![User Update](docs/InsomniaLocalUserRoutes/back-end-userdelete-success.png)
+
+- User get by id
+
+![User get by id](docs/InsomniaLocalUserRoutes/back-end-fetch-userbyid.png)
+
+- Admin change user status
+
+![User status change](docs/InsomniaLocalUserRoutes/back-end-admin-userstatus-success.png)
+
+- Admin remove user
+
+![User removed](docs/InsomniaLocalUserRoutes/back-end-admin-removeuser-success.png)
+
+- Admin get user list
+
+![User List](docs/InsomniaLocalUserRoutes/back-end-admin-userListmodified-success.png)
+
 #### Event Routes
 
 - Trainer creates an event
@@ -155,7 +189,7 @@ Note that the events ID is moved from user bookings to user's completed in datab
 
 See [Docs](docs/InsomniaLocalEventRoutes) for all screenshots of all local event routes.
 
-- **Production**: 
+- **Production**
 
 #### Event Routes
 
