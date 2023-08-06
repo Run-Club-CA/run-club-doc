@@ -61,20 +61,20 @@ The server will run on local host port 3000 and should open the site in your bro
 
 To view as admin:
 
-- Use the admin account below:
-  email: Admin1email@email.com
-  password: UAdmin1Pass
+- Use the admin account below:\
+  email: Admin1email@email.com\
+  password: UAdmin1Pass\
 
 To view as a trainer:
 
-- Use the trainer account below:
-  email: Trainer1email@email.com
+- Use the trainer account below:\
+  email: Trainer1email@email.com\
   password: Trainer1Pass
 
 To view as a user:
 
-- Use the account below or sign up as a new user.
-  email: User1email@email.com
+- Use the account below or sign up as a new user.\
+  email: User1email@email.com\
   password: User1Pass
 
 ---
