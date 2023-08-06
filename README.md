@@ -123,6 +123,8 @@ To view as a user:
 
 For our app we have used manual testing on local and production versions of the app, testing our local and deployed backend routes with insomnia, and written automated tests for the front and back end.
 
+To see our full User testing tracking for Development and Production please visit our [Notion Spreadsheet](https://jazzy-beauty-73b.notion.site/Testing-cda85541080e4c2ca49038cbcd3725d7)
+
 - **Local**: 
 
 #### Event Routes
