@@ -4,8 +4,6 @@
 
 ### Authors: Laurence Walton and Liam Massey
 
-#### Presentation part A - [Laurence Part]() [Liam Part]()
-
 #### [Deployed App](https://therunclub.netlify.app/)
 
 #### [Front-end Repo](https://github.com/Run-Club-CA/front-end-repo)
